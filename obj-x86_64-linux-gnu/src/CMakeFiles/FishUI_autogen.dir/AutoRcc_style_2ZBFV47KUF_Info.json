@@ -1,0 +1,37 @@
+{
+	"BUILD_DIR" : "/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/src/FishUI_autogen",
+	"CMAKE_BINARY_DIR" : "/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_BINARY_DIR" : "/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/root/Downloads/cutefish/fishui/src",
+	"CMAKE_SOURCE_DIR" : "/root/Downloads/cutefish/fishui",
+	"INCLUDE_DIR" : "/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/src/FishUI_autogen/include",
+	"INPUTS" : 
+	[
+		"/root/Downloads/cutefish/fishui/src/fish-style/Button.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/TabBar.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/Menu.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/Slider.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/CheckIndicator.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/Page.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/ComboBox.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/MenuItem.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/RadioIndicator.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/Control.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/TextField.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/RadioButton.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/ApplicationWindow.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/CheckBox.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/TabButton.qml",
+		"/root/Downloads/cutefish/fishui/src/fish-style/TextArea.qml"
+	],
+	"LOCK_FILE" : "/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/src/CMakeFiles/FishUI_autogen.dir/AutoRcc_style_2ZBFV47KUF_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "style" ],
+	"OUTPUT_CHECKSUM" : "2ZBFV47KUF",
+	"OUTPUT_NAME" : "qrc_style.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/src/CMakeFiles/FishUI_autogen.dir/AutoRcc_style_2ZBFV47KUF_Used.txt",
+	"SOURCE" : "/root/Downloads/cutefish/fishui/src/fish-style/style.qrc",
+	"VERBOSITY" : 0
+}

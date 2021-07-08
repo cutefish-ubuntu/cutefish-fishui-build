@@ -1,0 +1,13 @@
+Package: fishui-dbgsym
+Package-Type: ddeb
+Source: fishui
+Version: 0.1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Installed-Size: 2417
+Depends: fishui (= 0.1)
+Section: debug
+Priority: optional
+Description: debug symbols for fishui
+Build-Ids: ded8ca817252aeaf878cb827b290aec08809917c

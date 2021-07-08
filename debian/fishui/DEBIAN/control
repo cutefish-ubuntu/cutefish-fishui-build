@@ -1,0 +1,10 @@
+Package: fishui
+Version: 0.1
+Architecture: amd64
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Installed-Size: 764
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.69.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5qml5 (>= 5.2.0~beta1), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1)
+Section: devel
+Priority: optional
+Homepage: https://github.com/cutefishos/uikit
+Description: CutefishOS UIKit

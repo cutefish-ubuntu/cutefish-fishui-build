@@ -1,0 +1,23 @@
+module FishUI
+plugin FishUI
+classname FishUI
+depends QtQuick.Controls 2.12
+depends QtQuick.Controls.Private 2.10
+depends QtQuick.Controls 2.10
+depends QtGraphicalEffects 1.0
+designersupported
+
+typeinfo plugins.qmltypes
+
+singleton Theme 1.0 Theme.qml
+singleton Units 1.0 Units.qml
+
+ActionTextField 1.0 ActionTextField
+BusyIndicator 1.0 BusyIndicator.qml
+Icon 1.0 Icon.qml
+PopupTips 1.0 PopupTips.qml
+RoundedRect 1.0 RoundedRect.qml
+Window 1.0 Window.qml
+WindowButton 1.0 WindowButton.qml
+Toast 1.0 Toast.qml
+DesktopMenu 1.0 DesktopMenu.qml

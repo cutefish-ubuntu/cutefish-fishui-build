@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 16 Oct 2014 17:22:15 +0200
+Source: fishui
+Binary: fishui
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Changed-By: CutefishOS <cutefishos@foxmail.com>
+Description:
+ fishui     - CutefishOS UIKit
+Changes:
+ fishui (0.1) UNRELEASED; urgency=low
+ .
+   * Initial release (CutefishOS)  <cutefishos@foxmail.com>
+Checksums-Sha1:
+ 9acd1eb50967da0196d6853f84cdec9cb4c150c9 2388488 fishui-dbgsym_0.1_amd64.ddeb
+ f40c115b6140552200417123b71cdd914c92d435 14809 fishui_0.1_amd64.buildinfo
+ 7202dfdcfa28d67f94c8cfd15c421580ad68af86 96944 fishui_0.1_amd64.deb
+Checksums-Sha256:
+ 049512743da6617c2e0e23c229f9969d70d60628f008ca3a96cf0f72713995bb 2388488 fishui-dbgsym_0.1_amd64.ddeb
+ a95c6f4aab546034b6748c99cf6f00ba9c9b96cc1a5bee4cbe9ccef5dc6ed8ee 14809 fishui_0.1_amd64.buildinfo
+ 74b10cd666ec80ba6ba2cf67b9e46dee96e6ffd369a6ac4a307628fa5da3ec76 96944 fishui_0.1_amd64.deb
+Files:
+ 130366f5edcc61d8ee44c997c6aa5a75 2388488 debug optional fishui-dbgsym_0.1_amd64.ddeb
+ a9d4b64af67e7600b716d650f2871950 14809 devel optional fishui_0.1_amd64.buildinfo
+ 5c71912d0b47e3a170d4e4d6f2be4592 96944 devel optional fishui_0.1_amd64.deb

@@ -1,0 +1,15 @@
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/CMakeFiles/install/strip.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/CMakeFiles/install/local.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/CMakeFiles/install.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/CMakeFiles/list_install_components.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/CMakeFiles/rebuild_cache.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/CMakeFiles/edit_cache.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/CMakeFiles/KF5WindowSystem_QCH.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/src/CMakeFiles/install/strip.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/src/CMakeFiles/install/local.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/src/CMakeFiles/install.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/src/CMakeFiles/list_install_components.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/src/CMakeFiles/rebuild_cache.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/src/CMakeFiles/edit_cache.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/src/CMakeFiles/FishUI.dir
+/root/Downloads/cutefish/fishui/obj-x86_64-linux-gnu/src/CMakeFiles/FishUI_autogen.dir
