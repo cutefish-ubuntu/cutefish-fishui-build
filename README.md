@@ -35,3 +35,5 @@ sudo make install
 ## License
 
 FishUI is licensed under GPLv3.
+
+![GPLv3](https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu/master/img/gpl3.png)
